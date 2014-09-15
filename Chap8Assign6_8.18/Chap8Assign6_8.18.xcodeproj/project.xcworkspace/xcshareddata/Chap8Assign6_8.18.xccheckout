@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59B477A9-E716-4B2A-BFEB-67F67977288A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Chap8Assign6_8.18</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B1D5A02-AB19-4497-8BC8-ECB18A04766F</key>
+		<string>https://github.com/kody-w/Obj-C.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Chap8Assign6_8.18/Chap8Assign6_8.18.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B1D5A02-AB19-4497-8BC8-ECB18A04766F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kody-w/Obj-C.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B1D5A02-AB19-4497-8BC8-ECB18A04766F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B1D5A02-AB19-4497-8BC8-ECB18A04766F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Obj-C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
